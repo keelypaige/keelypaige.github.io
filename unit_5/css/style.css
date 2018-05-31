@@ -80,8 +80,15 @@ ul {
 	padding-left: 20px; 
 }
 
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 footer {
-	background-color: #cccccc
+	background-color: #FF957E;
+	border: 1px black solid;
 	padding: 20px;
 
 }
