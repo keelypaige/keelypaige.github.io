@@ -98,12 +98,17 @@ footer {
 	background-color: orange;
 }
 #left{
-	float: lef;
+	border:1px black solid;
+	padding:20px;
+	float: left;
+	width: 30%;
 }
 
 #right{
-
+border: 1px black solid;
+padding: 20px;
 float: right;
+width: 30%;
 
 }
 #slogan {
