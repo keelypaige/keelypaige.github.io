@@ -103,7 +103,8 @@ footer {
 
 #right{
 
-float: right
+float: right;
+
 }
 #slogan {
 	font-family: 'Merriweather', serif;
