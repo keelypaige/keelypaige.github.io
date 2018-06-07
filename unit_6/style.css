@@ -95,8 +95,15 @@ footer {
 .cities {
 	width:500px;
 	margin:40px;
-	float: left;
 	background-color: orange;
+}
+#left{
+	float: lef;
+}
+
+#right{
+
+float: right
 }
 #slogan {
 	font-family: 'Merriweather', serif;
