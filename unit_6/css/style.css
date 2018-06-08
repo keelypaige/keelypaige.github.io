@@ -95,6 +95,7 @@ footer {
 .cities {
 	width:500px;
 	margin:40px;
+	float: left;
 	background-color: orange;
 
 }
@@ -107,16 +108,6 @@ footer {
 	clear: both;
 	height: 0;
 }
-
-}
-#left{
-	float: left;
-	
-}
-
-#right{
-
-float: right;
 
 
 }
