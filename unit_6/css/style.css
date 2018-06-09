@@ -13,8 +13,8 @@ body {
 }
 
 header {
-		background-color: #FFED74;
-		border: 1px black solid;
+		background-color: white;
+		border: none;
 		padding: 20px;
 		margin: 60px;
 		text-align: center;
@@ -87,7 +87,7 @@ article {
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: none;
 	border: 1px black solid;
 	padding: 20px;
 
