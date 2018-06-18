@@ -82,8 +82,7 @@ ul {
 
 article {
 	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
+	padding: 30px;
 }
 
 footer {
@@ -93,8 +92,8 @@ footer {
 
 }
 .cities {
-	width:300px;
-	margin: 40px;
+	width:200px;
+	margin: 50px;
 	float: left;
 	background-color: white;
 
