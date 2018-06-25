@@ -28,6 +28,7 @@ h1 {
 h2 {
 	font-family: 'Montserrat', sans-serif;
 	font-size:2em;
+	text-align: center;
 }
 
 h3 {
@@ -40,18 +41,19 @@ a {
 	text-decoration: none;
 }
 
+nav {
+	background-color: #cccccc;
+}
 
 nav a {
 	font-family: 'Merriweather', serif;
 	background-color: #cccccc;
 	color: white;
-	font-style italic;
 	margin-right: 10px;
 	text-transform: uppercase;
 	font-weight: 600px;
 	letter-spacing: 2px;
 	width: auto;/*mentor*/
-	;
 
 }
 
@@ -71,7 +73,8 @@ hr{
 p{
 	font-family: 'Merriweather', serif;
 	font-size:1em;
-	width:30em;
+	width:100%;
+	margin: 0 auto;
 	line-height: 1.5em; /*mentor rome paragraph*/
 
 }
@@ -81,6 +84,8 @@ main {
 
 ul { 
 	padding-left: 1.25em; 
+	width: 200px;
+	margin: 0 auto;
 }
 
 article {
@@ -167,8 +172,6 @@ footer {
 	} 
 	/*mentor*/
 
-	}
-
 h2 {
 	font-size:20px ;
 }
@@ -185,7 +188,7 @@ p {
 	font-size:16px ;
 }
 
-aside .rome { /*mentor also wrapper*/
+#Rome { /*mentor also wrapper*/
 	display: none;
 }
 
